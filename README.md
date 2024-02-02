@@ -1,2 +1,2 @@
 # classification-challenge
-AI Bootcamp Challenge 11 due January 25, 2024
+AI Bootcamp Challenge 13 due February 8, 2024
